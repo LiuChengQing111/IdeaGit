@@ -10,6 +10,6 @@ public class Main {
         System.out.println("Hello world!git idea demo");
         System.out.println("Hello world!git idea demo");
         System.out.println("Hello world!git idea demo");
-        System.out.println("Hello world!master change");
+        System.out.println("Hello world!master test");
     }
 }
