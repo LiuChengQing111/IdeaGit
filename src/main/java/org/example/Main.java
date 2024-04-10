@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Hello world!git idea demo");
         System.out.println("Hello world!git idea demo");
         System.out.println("Hello world!master test");
+        System.out.println("Hello world!hotfix test");
     }
 }
